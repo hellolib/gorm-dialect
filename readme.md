@@ -1,2 +1,3 @@
 # gorm-v1-dialect
-gorm v1 方言包
+dm8 gorm v1 dialect
+
